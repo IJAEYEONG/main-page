@@ -1,0 +1,14 @@
+/* SkillBar.module.css */
+.progressBar {
+    width: 100%;
+    background-color: #e5e7eb; /* gray-200 */
+    border-radius: 9999px; /* full rounded */
+    height: 10px; /* h-2.5 */
+  }
+  
+  .progressBarFill {
+    background-color: #3b82f6; /* blue-600 */
+    height: 10px;
+    border-radius: 9999px;
+  }
+  
